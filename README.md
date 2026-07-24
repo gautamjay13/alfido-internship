@@ -1,6 +1,7 @@
 # Alfido-Tech
 
 📂 Project Structure
+
 Task 1/ - Banking System: Demonstrates OOP concepts like Inheritance and Encapsulation.
 
 Task 2/ - Array Operations: Demonstrates loops and conditional logic.
